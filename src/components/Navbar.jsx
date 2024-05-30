@@ -16,7 +16,7 @@ const Navbar = () => {
                 </div>
 
                 <div className="flex items-baseline gap-7 max-sm:justify-end max-sm:flex-1">
-                    <div className="transition-all cursor-pointer">
+                    <div className="transition-all cursor-pointer hover:fill-black">
                         <img src={searchImg} alt="Search" width={18} height={18} />
                     </div>
                     <div className="transition-all cursor-pointer">
